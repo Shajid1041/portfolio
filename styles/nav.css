@@ -2,7 +2,7 @@
     display: flex;
     color: beige;
     list-style-type: none;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:monospace ;
     font-size:x-large;
     justify-content: flex-end;
     background-color: #61cf5a;
@@ -15,18 +15,16 @@
     color: antiquewhite;
 }
 .nav a:hover{
-    color: #61cf5a;
-    background-color: #1b1212;
-    padding: 10px;
-    border-radius: 10px;
+    color: #1b1212;
+    
 }
 .nav button{
     background-color: #1b1212;
     color: #61cf5a;
     border: none;
     padding: 10px 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida
-    font-size: medium;                   
+    font-family:monospace ;
+    font-size: medium;
     border-radius: 10px;
     cursor: pointer;
 }

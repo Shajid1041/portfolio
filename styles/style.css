@@ -1,11 +1,17 @@
 *{
     margin: 0;
     padding: 0;
+    color: antiquewhite;
 }
 
 
 body{
+    background-color: black;	
+}
+section{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    height: 550px;  
     background-color: #1b1212;
-    
-    	
 }
