@@ -1,5 +1,6 @@
 #skills{
     background-color: black;
+    
 
 }
 #skills h2 {
@@ -26,7 +27,7 @@
   padding: 5px 25px; 
   margin: 10px 20px;   
   border-radius: 5px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: monospace;
   font-size: medium;
 }
 .skills-container .skill img {
