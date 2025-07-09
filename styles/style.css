@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    color: antiquewhite;
+    color: white    ;
     
 }
 
@@ -13,5 +13,5 @@ section{
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
-    background-color: #1b1212;
+    background-color: black;
 }
